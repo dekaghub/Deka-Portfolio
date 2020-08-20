@@ -1,4 +1,8 @@
 # Defie
-## Artist | Data Scientist | Programmer
+### Artist | Data Scientist | Programmer
 
-Personal Resume &amp; CV
+
+>Skilled artist with experience in programming and machine learning seeking for professional positions to apply my knowledge and learn from other experts and veterans.
+
+
+
