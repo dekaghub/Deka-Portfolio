@@ -60,7 +60,10 @@ both Google and Ulta Beauty were sponsors of the event
 
 
 # Socials
-![](./images/linkedin.png)[LinkedIn](https://www.linkedin.com/in/deka69/)
-[]
+![](./images/linkedin.png) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/deka69/)
+
+![](./images/twitter.png) &nbsp; &nbsp; [Twitter](https://twitter.com/ddefiee)
+
+![](./images/mail.png) &nbsp; &nbsp; [Email](mailto:deviedefie@gmail.com)
 
 
