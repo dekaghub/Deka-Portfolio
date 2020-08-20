@@ -52,7 +52,7 @@ both Google and Ulta Beauty were sponsors of the event
 ### Music
 * DJ, Guitar player, Music producer, Mixing & Mastering
 * Familiar with FabFilter, Native Instruments, Waves, Xfer products + services like Splice, DistroKid, Label Worx, Bandcamp
-* Intermediate understanding of Spotify and the impact of their playlists, user recommendations, playlist generation, Spotify for Artist platform, 
+* Intermediate understanding of Spotify and the impact of their playlists, user recommendations, playlist generation, Spotify for Artist platform, Song Discovery mechanisms (use of NLP on news, Collaborative filtering, DL on spectograms, etc.)
 
 ### Fintech
 * Trading experience of 2 years (stocks, options) using primarily technical analysis
