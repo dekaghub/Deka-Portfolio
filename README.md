@@ -57,6 +57,10 @@ both Google and Ulta Beauty were sponsors of the event
 ### Fintech
 * Trading experience of 2 years (stocks, options) using primarily technical analysis
 * Pairs trading project on R
-* 
+
+
+# Socials
+![](./images/linkedin.png)[LinkedIn](https://www.linkedin.com/in/deka69/)
+[]
 
 
