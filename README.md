@@ -58,11 +58,19 @@ both Google and Ulta Beauty were sponsors of the event
 * Trading experience of 2 years (stocks, options) using primarily technical analysis
 * Pairs trading project on R
 
+### Others
+* I am into cooking and have mastered the maillard reaction of onions along with decent knife skills
+* I write comedy and have recently gotten into songwriting after researching into writing techniques and forming emotional connection
+* I like to ride motor bikes since my brother is a bike enthusiast, my current favorite bike is [Husqvarna Vitpilen](https://www.husqvarna-motorcycles.com/en-us/models/vitpilen/vitpilen-401-2020.html)
+* I play video games and I am a big Call of Duty fan, especially sniping & SnD
+
 
 # Socials
 ![](./images/linkedin.png) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/deka69/)
 
 ![](./images/twitter.png) &nbsp; &nbsp; [Twitter](https://twitter.com/ddefiee)
+
+![](./images/github-logo.png) &nbsp; &nbsp; [GitHub](https://github.com/dekaghub)
 
 ![](./images/mail.png) &nbsp; &nbsp; [Email](mailto:deviedefie@gmail.com)
 
