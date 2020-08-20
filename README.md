@@ -34,20 +34,29 @@ both Google and Ulta Beauty were sponsors of the event
 # Personal
 
 
-## Tech
-
 ### Machine Learing & Statistical Analysis
 
-* PyTorch - Deep Learning CNN model that classifies the Fashion MNIST dataset
-* R projects on Linear, Logisitic, KNN, Clustering, Forest (Boosted) models
+* PyTorch & Tensorflow Keras - Deep Learning CNN model that classifies the Fashion MNIST dataset
+* R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
+* Used librosa in python for spectral analysis and converting audio to image for ML models
+* NLP to read headlines of news outlets to determine price movement of stocks
+* Understand importance of EDA & ETL (proper encoding) as well as issues with deployment
+
+### Design & Motion Graphics
+
+* Proficient with Photoshop and Adobe After Effects
+* Frequently use Behance & Vimeo for design inspiration and specifying professional standard
+* Used Figma & Maze.Design for designing & testing of a computer hardware website
+* Enthusiast script writer and video editor
+
+### Music
+* DJ, Guitar player, Music producer, Mixing & Mastering
+* Familiar with FabFilter, Native Instruments, Waves, Xfer products + services like Splice, DistroKid, Label Worx, Bandcamp
+* Intermediate understanding of Spotify and the impact of their playlists, user recommendations, playlist generation, Spotify for Artist platform, 
+
+### Fintech
+* Trading experience of 2 years (stocks, options) using primarily technical analysis
+* Pairs trading project on R
 * 
-
-## Design & Motion Graphics
-
-## Music
-
-
-## Fintech
-
 
 
