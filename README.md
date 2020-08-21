@@ -75,3 +75,10 @@ both Google and Ulta Beauty were sponsors of the event
 ![](./images/mail.png) &nbsp; &nbsp; [Email](mailto:deviedefie@gmail.com)
 
 
+***
+
+### Documents
+
+[Resume PDF](./assets/Resume_General.pdf)
+
+
