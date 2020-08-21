@@ -81,4 +81,3 @@ both Google and Ulta Beauty were sponsors of the event
 
 [Resume PDF](./assets/Resume_General.pdf)
 
-
