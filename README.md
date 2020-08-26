@@ -36,8 +36,7 @@ both Google and Ulta Beauty were sponsors of the event
 
 ### Machine Learing & Statistical Analysis
 
-* PyTorch & Tensorflow Keras - Deep Learning CNN model that classifies the Fashion MNIST dataset
-* [Cats and Dogs Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - Keras VGG16 classifier
+* [Cats and Dogs Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
 * NLP to read headlines of news outlets to determine price movement of stocks
