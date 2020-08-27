@@ -37,6 +37,7 @@ both Google and Ulta Beauty were sponsors of the event
 ### Machine Learing & Statistical Analysis
 
 * [Cats and Dogs Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier
+* [Weather Classifier](https://github.com/dekaghub/weather-classifier/blob/master/keras_mobilenet_weather_classifier.ipynb) - Keras MobileNet V1 Image classifier that classifies weather out of 4 possible classes; Cloudy, Rainy, Sunshine or Sunrise
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
 * NLP to read headlines of news outlets to determine price movement of stocks
