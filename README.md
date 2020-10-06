@@ -2,7 +2,7 @@
 ### Artist | Data Scientist | Programmer
 
 
-> Skilled artist with experience in programming and data science seeking for professional positions to apply my knowledge and learn from other experts and veterans.
+> Skilled artist with programming experience and data science knowledge seeking for professional positions to apply my skills and learn from other experts and veterans.
 
 ---
 
@@ -30,6 +30,7 @@ both Google and Ulta Beauty were sponsors of the event
 * Developed an app that recommends a Spotify track based on facial emotion
 * Implemented Google Cloud Vision & Spotify APIs for core functionality
 
+---
 
 # Personal
 
@@ -56,18 +57,20 @@ both Google and Ulta Beauty were sponsors of the event
 * Enthusiast script writer and video editor
 
 ### Music
+
 * DJ, Guitar player, Music producer, Mixing & Mastering
 * Familiar with FabFilter, Native Instruments, Waves, Xfer products + services like Splice, DistroKid, Label Worx, Bandcamp
 * Intermediate understanding of Spotify and the significance of their playlists, user recommendations, playlist generation, Spotify for Artist platform, Song Discovery mechanisms (use of NLP on news, Collaborative filtering, DL on spectograms, etc.)
 
 ### Fintech
+
 * Trading experience of 2 years (stocks, options) primarily using technical analysis
 * Pairs trading project on R
 
 ### About me
-* I am into cooking and have mastered the maillard reaction of onions along with decent knife skills
-* I write comedy scripts as well as songwriting (+ production)
-* I like to ride motor bikes since my brother is a bike enthusiast, current favorite bike is [Husqvarna Vitpilen](https://www.husqvarna-motorcycles.com/en-us/models/vitpilen/vitpilen-401-2020.html)
+* Amateur chef with decent knife skills and culinary experience
+* I write comedy scripts as well as songwriting
+* I like motor bikes since my brother is a bike enthusiast, current favorite bike is [Husqvarna Vitpilen](https://www.husqvarna-motorcycles.com/en-us/models/vitpilen/vitpilen-401-2020.html)
 * I play video games and I am a big Call of Duty fan, especially sniping
 
 
