@@ -33,13 +33,16 @@ both Google and Ulta Beauty were sponsors of the event
 
 # Personal
 
+### General Software Development
+
+* [Completo](https://github.com/dekaghub/completo) - React app that lets users complete fragments of random lyrics using MusixMatch API.
+* [Muse Info](https://github.com/dekaghub/muse-info) - React app built with Bootstrap and MusixMatch API that lets users search for and get information about music
+* [gif-app](https://github.com/dekaghub/gif-app) - Simple React app built using native and custom react hooks and giphy API
 
 ### Machine Learing & Statistical Analysis
 
 * [Cats and Dogs Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier
 * [Weather Classifier](https://github.com/dekaghub/weather-classifier/blob/master/keras_mobilenet_weather_classifier.ipynb) - Keras MobileNet V1 Image classifier that classifies weather out of 4 possible classes; Cloudy, Rainy, Sunshine or Sunrise
-* [Completo](https://github.com/dekaghub/completo) - React app that lets users complete fragments of random lyrics using MusixMatch API.
-* [Muse Info](https://github.com/dekaghub/muse-info) - React app built with Bootstrap and MusixMatch API that lets users search for and get information about music
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
 * NLP to read headlines of news outlets to determine price movement of stocks
