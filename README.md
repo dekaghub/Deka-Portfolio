@@ -1,8 +1,6 @@
-# Defie
-### Artist | Data Scientist | Programmer
+# SUSANTA DEKA
+### Artist | Data Specialist | Programmer
 
-
-> Skilled artist with programming experience and data science knowledge seeking for professional positions to apply my skills and learn from other experts and veterans.
 
 ---
 
@@ -12,14 +10,13 @@
 
 ### Student Programmer, Office of Admissions, BGSU (2017 - 2020)
 
-* Primarily coordinated with management on email campaigns and building subsets & reports of student
-populations for customized messaging
+* Worked with Communications Management on email campaigns and building reports of student populations for customized messaging
 * Used PHP, Mustache templating, SQL queries, Technolutions Slate (CRM), UAS (in house) for work
 
 ### DareMighty Hackathon, Chicago, October 2019
 
 * Recruited team and facilitated meetings & practice projects
-* For consistent workflow, I implemented team wide use of GitHub Desktop for project tracking and VSCode as the code editor
+* I implemented team wide use of GitHub Desktop for project tracking and VSCode as the code editor
 * Developed a voice assistant for Ulta Beauty using Google's Dialogflow since
 both Google and Ulta Beauty were sponsors of the event
 * Pitched final presentation to the judges
@@ -42,17 +39,16 @@ both Google and Ulta Beauty were sponsors of the event
 
 ### Machine Learing & Statistical Analysis
 
-* [Cats and Dogs Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier
+* [Pet Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier that predicts Cat or Dog with 98% accuracy
 * [Weather Classifier](https://github.com/dekaghub/weather-classifier/blob/master/keras_mobilenet_weather_classifier.ipynb) - Keras MobileNet V1 Image classifier that classifies weather out of 4 possible classes; Cloudy, Rainy, Sunshine or Sunrise
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
 * NLP to read headlines of news outlets to determine price movement of stocks
-* Understand knowledge of EDA & ETL (proper encoding) as well as issues with deployment
 
 ### Design & Motion Graphics
 
 * Proficient with Photoshop and Adobe After Effects
-* Frequently use Behance & Vimeo for design inspiration and specifying professional standards
+* Frequently use Behance & Vimeo for design inspiration
 * Used Figma & Maze.Design for designing & testing of a computer hardware website
 * Enthusiast script writer and video editor
 
@@ -66,12 +62,6 @@ both Google and Ulta Beauty were sponsors of the event
 
 * Trading experience of 2 years (stocks, options) primarily using technical analysis
 * Pairs trading project on R
-
-### About me
-* Amateur chef with decent knife skills and culinary experience
-* I write comedy scripts as well as songwriting
-* I like motor bikes since my brother is a bike enthusiast, current favorite bike is [Husqvarna Vitpilen](https://www.husqvarna-motorcycles.com/en-us/models/vitpilen/vitpilen-401-2020.html)
-* I play video games and I am a big Call of Duty fan, especially sniping
 
 
 # Socials
