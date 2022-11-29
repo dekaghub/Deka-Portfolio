@@ -9,20 +9,32 @@
 
 ### Institutional Reporting & sunapsis Specialist, Office of International Services, Indiana University (2020 - 2022)
 
-* Institutional Reporting for Executive Director & Associates
-    * Admissions Point in Cycle - Year-over-Year (YoY) Comparison
-        * Used Tableau for data flow & data visualization
-        * Used Excel for charts of YoY comparisons
-    * Immigration Compliance Reports
-    * Term Reports; Student Classifying Reports
-* [sunapsis](https://sunapsis.iu.edu/) Support Specialist
-    * Implementation Projects (MIT Scholars, NJIT, etc.)
-    * Data migration from proprietary/enterprise SIS to sunapsis compatible data systems
-    * Project planning with client staff & tech teams
-    * Worked on training client team to use sunapsis
-* sunapsis client support
-    * Worked on client issues & tickets - writing responses, zoom call troubleshooting
-    * Bug/FR reporting to core dev team
+<details><summary> Institutional Reporting for Executive Director & Associates</summary>
+
+* Admissions Point in Cycle - Year-over-Year (YoY) Comparison
+    * Used Tableau for data flow & data visualization
+    * Used Excel for charts of YoY comparisons
+* Immigration Compliance Reports
+* Term Reports; Student Classifying Reports
+
+</details>
+
+<details><summary> sunapsis Support Specialist</summary>
+
+* [sunapsis](https://sunapsis.iu.edu/) Implementation Projects (MIT Scholars, NJIT, etc.)
+* Data migration from proprietary/enterprise SIS to sunapsis compatible data systems
+* Project planning with client staff & tech teams
+* Worked on training client team to use sunapsis
+
+</details>
+
+<details><summary> sunapsis client support </summary>
+
+* Worked on client issues & tickets - writing responses, zoom call troubleshooting
+* Bug/FR reporting to core dev team
+
+</details>
+<br>
 
 ### Student Programmer, Office of Admissions, BGSU (2017 - 2020)
 
@@ -88,8 +100,10 @@ both Google and Ulta Beauty were sponsors of the event
 * Trading experience of 2 years (stocks, options) primarily using technical analysis
 * Pairs trading project on R
 
+***
 
 # Socials
+
 ![](./images/linkedin.png) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/deka69/)
 
 ![](./images/twitter.png) &nbsp; &nbsp; [Twitter](https://twitter.com/ddefiee)
@@ -103,7 +117,7 @@ both Google and Ulta Beauty were sponsors of the event
 
 ***
 
-### Documents
+## Documents
 
 [Resume PDF](./Resume_General.pdf)
 
