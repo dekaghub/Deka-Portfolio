@@ -11,27 +11,27 @@
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
-<li style="margin-left:2em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison
-    <li style="margin-left:4em"> Used Tableau for data flow & data visualization
-    <li style="margin-left:4em"> Used Excel for charts of YoY comparisons
-<li style="margin-left:2em"> Immigration Compliance Reports
-<li style="margin-left:2em"> Term Reports; Student Classifying Reports
+<li style="margin-left:2em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
+    <li style="margin-left:4em"> Used Tableau for data flow & data visualization</li>
+    <li style="margin-left:4em"> Used Excel for charts of YoY comparisons</li>
+<li style="margin-left:2em"> Immigration Compliance Reports</li>
+<li style="margin-left:2em"> Term Reports; Student Classifying Reports</li>
 
 </details>
 
 <details><summary> sunapsis Support Specialist</summary>
 
-<li style="margin-left:2em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)
-<li style="margin-left:2em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems
-<li style="margin-left:2em"> Project planning with client staff & tech teams
-<li style="margin-left:2em"> Worked on training client team to use sunapsis
+<li style="margin-left:2em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)</li>
+<li style="margin-left:2em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems</li>
+<li style="margin-left:2em"> Project planning with client staff & tech teams</li>
+<li style="margin-left:2em"> Worked on training client team to use sunapsis</li>
 
 </details>
 
 <details><summary> sunapsis client support </summary>
 
-<li style="margin-left:2em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting
-<li style="margin-left:2em"> Bug/FR reporting to core dev team
+<li style="margin-left:2em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
+<li style="margin-left:2em"> Bug/FR reporting to core dev team</li>
 
 </details>
 <br>
