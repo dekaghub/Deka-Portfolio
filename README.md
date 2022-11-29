@@ -34,7 +34,6 @@
 * Bug/FR reporting to core dev team
 
 </details>
-<br>
 
 ### Student Programmer, Office of Admissions, BGSU (2017 - 2020)
 
