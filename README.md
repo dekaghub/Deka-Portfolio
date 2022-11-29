@@ -11,11 +11,11 @@
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
-<li style="margin-left:2em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
+<li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
     <li style="margin-left:4em"> Used Tableau for data flow & data visualization</li>
     <li style="margin-left:4em"> Used Excel for charts of YoY comparisons</li>
-<li style="margin-left:2em"> Immigration Compliance Reports</li>
-<li style="margin-left:2em"> Term Reports; Student Classifying Reports</li>
+<li style="margin-left:3em"> Immigration Compliance Reports</li>
+<li style="margin-left:3em"> Term Reports; Student Classifying Reports</li>
 
 </details>
 
@@ -34,7 +34,6 @@
 <li style="margin-left:2em"> Bug/FR reporting to core dev team</li>
 
 </details>
-<br>
 
 ### Student Programmer, Office of Admissions, BGSU (2017 - 2020)
 
