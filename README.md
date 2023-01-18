@@ -4,7 +4,7 @@
 
 ---
 
-[Resume PDF](./Resume_General.pdf)
+[Resume PDF](https://github.com/dekaghub/Deka-Portfolio/raw/master/Resume_General.pdf)
 
 # Experience
 
