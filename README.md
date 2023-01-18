@@ -4,6 +4,7 @@
 
 ---
 
+[Resume PDF](./Resume_General.pdf)
 
 # Experience
 
@@ -60,6 +61,7 @@ both Google and Ulta Beauty were sponsors of the event
 
 ### Data Projects
 
+* [Python Notebooks Github](https://github.com/dekaghub/Data-Projects-Deka/tree/main/Python%20Notebooks)
 * [Data related projects github page](https://github.com/dekaghub/Data-Projects-Deka)
 * dbt & AWS - Loaded data into AWS and used dbt to generate models i.e. data transformations
 * Used an AWS CloudFormation yaml config file to set up Redshift instance along with other resources (EC2, S3, Lambda, etc.)
@@ -117,7 +119,4 @@ both Google and Ulta Beauty were sponsors of the event
 
 ***
 
-## Documents
-
-[Resume PDF](./Resume_General.pdf)
 
