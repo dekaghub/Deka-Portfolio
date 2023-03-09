@@ -83,6 +83,7 @@ both Google and Ulta Beauty were sponsors of the event
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
 * NLP to read headlines of news outlets to determine price movement of stocks
+* Pairs trading project on R 
 
 ### Design & Motion Graphics
 
@@ -96,11 +97,6 @@ both Google and Ulta Beauty were sponsors of the event
 * DJ, Guitar, Music producer, Mixing & Mastering
 * Familiar with FabFilter, Native Instruments, Waves, Xfer products + services like Beatport, Loopmasters, Splice, DistroKid, Label Worx, Bandcamp
 * Intermediate understanding of Spotify and the significance of their playlists, song recommendations, playlist generation, Spotify for Artist platform, Song Discovery mechanisms (use of NLP on news, Collaborative filtering, DL on spectograms, etc.)
-
-### Fintech
-
-* Trading experience of 2 years (stocks, options) primarily using technical analysis
-* Pairs trading project on R
 
 ***
 
