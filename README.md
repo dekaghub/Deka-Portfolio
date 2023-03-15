@@ -13,10 +13,11 @@
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
 <li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
-    <li style="margin-left:5em"> Used Tableau for data flow & data visualization</li>
+    <li style="margin-left:5em"> Compared enrollment of students based on their level (Undergrad, Grad, etc.), their admit term (Fall, Spring) and
+their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA, etc.)</li>
+<li style="margin-left:5em"> Used Tableau to generate dashboards & reports to showcase change percentage</li>
     <li style="margin-left:5em"> Used Excel for charts of YoY comparisons</li>
-<li style="margin-left:3em"> Immigration Compliance Reports</li>
-<li style="margin-left:3em"> Term Reports; Student Classifying Reports</li>
+<li style="margin-left:3em"> Immigration Compliance Reports; Regular reports to identify under-enrolled students or those belonging to specific student groups</li>
 
 </details>
 
@@ -75,7 +76,15 @@ both Google and Ulta Beauty were sponsors of the event
 * [Completo](https://github.com/dekaghub/completo) - React app that lets users complete fragments of random lyrics using MusixMatch API.
 * [Muse Info](https://github.com/dekaghub/muse-info) - React app built with Bootstrap and MusixMatch API that lets users search for and get information about music
 * [gif-app](https://github.com/dekaghub/gif-app) - Simple React app built using native and custom react hooks and giphy API
+Bandcamp Discover - <
+<details><summary> Bandcamp Discover </summary>
+<p>Built an end to end python project that allows users to find & play music from Bandcamp.com.
+Used python selenium to scrape dynamic web elements, then parsed the data with Beautiful Soup to generate the
+iframe code which was then displayed using Python Streamlit. The app runs on an AWS EC2 where I installed python &
+selenium related chrome browser + drivers.</p>
+<li style="margin-left:3em"> test </li>
 
+</details>
 ### Machine Learing & Statistical Analysis
 
 * [Pet Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier that predicts Cat or Dog with 98% accuracy
@@ -96,7 +105,7 @@ both Google and Ulta Beauty were sponsors of the event
 
 * DJ, Guitar, Music producer, Mixing & Mastering
 * Familiar with FabFilter, Native Instruments, Waves, Xfer products + services like Beatport, Loopmasters, Splice, DistroKid, Label Worx, Bandcamp
-* Intermediate understanding of Spotify and the significance of their playlists, song recommendations, playlist generation, Spotify for Artist platform, Song Discovery mechanisms (use of NLP on news, Collaborative filtering, DL on spectograms, etc.)
+* Intermediate understanding of Spotify and their playlists, song recommendations, playlist generation, Spotify for Artist platform, Song Discovery mechanisms (Collaborative filtering, DL on spectograms, etc.)
 
 ***
 
