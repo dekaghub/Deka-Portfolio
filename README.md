@@ -8,7 +8,7 @@
 
 # Experience
 
-<details><summary><h3>Institutional Reporting & sunapsis Specialist, Office of International Services, Indiana University (2020 - 2022)</h3></summary>
+<details><summary><h3>Institutional Reporting & sunapsis Specialist, OIS, Indiana University (2020 - 2022)</h3></summary>
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
