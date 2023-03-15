@@ -12,28 +12,28 @@
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
-<li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
     <li style="margin-left:5em"> Compared enrollment of students based on their level (Undergrad, Grad, etc.), their admit term (Fall, Spring) and
 their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA, etc.)</li>
-<li style="margin-left:5em"> Used Tableau to generate dashboards & reports to showcase change percentage</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:5em"> Used Tableau to generate dashboards & reports to showcase change percentage</li>
     <li style="margin-left:5em"> Used Excel for charts of YoY comparisons</li>
-<li style="margin-left:3em"> Immigration Compliance Reports; Regular reports to identify under-enrolled students or those belonging to specific student groups</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Immigration Compliance Reports; Regular reports to identify under-enrolled students or those belonging to specific student groups</li>
 
 </details>
 
 <details><summary> sunapsis Support Specialist</summary>
 
-<li style="margin-left:3em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)</li>
-<li style="margin-left:3em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems</li>
-<li style="margin-left:3em"> Project planning with client staff & tech teams</li>
-<li style="margin-left:3em"> Worked on training client team to use sunapsis</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Project planning with client staff & tech teams</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Worked on training client team to use sunapsis</li>
 
 </details>
 
 <details><summary> sunapsis client support </summary>
 
-<li style="margin-left:3em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
-<li style="margin-left:3em"> Bug/FR reporting to core dev team</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Bug/FR reporting to core dev team</li>
 
 </details>
 </details>
