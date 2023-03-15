@@ -23,10 +23,10 @@ their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA
 
 <details><summary> sunapsis Support Specialist</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Project planning with client staff & tech teams</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Worked on training client team to use sunapsis</li>
+<li style="margin-left:3em"> <a href src="https://sunapsis.iu.edu">sunapsis</a> Implementation Projects (MIT Scholars, NJIT, etc.)</li>
+<li style="margin-left:3em"> Data migration from proprietary/enterprise SIS to sunapsis compatible data systems</li>
+<li style="margin-left:3em"> Project planning with client staff & tech teams</li>
+<li style="margin-left:3em"> Worked on training client team to use sunapsis</li>
 
 </details>
 
