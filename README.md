@@ -12,12 +12,12 @@
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
+<li style="margin-left:3em"> Admissions Point in Cycle - Year-over-Year (YoY) Comparison</li>
     <li style="margin-left:5em"> Compared enrollment of students based on their level (Undergrad, Grad, etc.), their admit term (Fall, Spring) and
 their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA, etc.)</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:5em"> Used Tableau to generate dashboards & reports to showcase change percentage</li>
+<li style="margin-left:5em"> Used Tableau to generate dashboards & reports to showcase change percentage</li>
     <li style="margin-left:5em"> Used Excel for charts of YoY comparisons</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Immigration Compliance Reports; Regular reports to identify under-enrolled students or those belonging to specific student groups</li>
+<li style="margin-left:3em"> Immigration Compliance Reports; Regular reports to identify under-enrolled students or those belonging to specific student groups</li>
 
 </details>
 
@@ -32,8 +32,8 @@ their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA
 
 <details><summary> sunapsis client support </summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
-&nbsp;&nbsp;&nbsp;&nbsp;<li style="margin-left:3em"> Bug/FR reporting to core dev team</li>
+<li style="margin-left:3em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
+<li style="margin-left:3em"> Bug/FR reporting to core dev team</li>
 
 </details>
 </details>
