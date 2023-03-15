@@ -8,7 +8,7 @@
 
 # Experience
 
-<details><summary>### Institutional Reporting & sunapsis Specialist, Office of International Services, Indiana University (2020 - 2022)</summary>>
+<details><summary><h3>Institutional Reporting & sunapsis Specialist, Office of International Services, Indiana University (2020 - 2022)</h3></summary>
 
 <details><summary> Institutional Reporting for Executive Director & Associates</summary>
 
@@ -35,6 +35,7 @@ their admit campus i.e. campuses of Indiana University (IUB, IUPUI, IUSBA, IUSEA
 <li style="margin-left:3em"> Worked on client issues & tickets - writing responses, zoom call troubleshooting</li>
 <li style="margin-left:3em"> Bug/FR reporting to core dev team</li>
 
+</details>
 </details>
 
 ### Student Programmer, Office of Admissions, BGSU (2017 - 2020)
