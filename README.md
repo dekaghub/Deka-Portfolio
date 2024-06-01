@@ -60,6 +60,12 @@ both Google and Ulta Beauty were sponsors of the event
 
 # Personal
 
+### DevOps Projects
+
+* Complete CI/CD Pipeline of a full stack app with deployment in a kubernetes cluster using ArgoCD, cdk8s. [Demo Video](https://youtu.be/l58EIv-0G5Y)
+* Prometheus monitoring with Grafana of a MongoDB service
+
+
 ### Data Projects
 
 * [Python Notebooks Github](https://github.com/dekaghub/Data-Projects-Deka/tree/main/Python%20Notebooks)
@@ -73,6 +79,7 @@ both Google and Ulta Beauty were sponsors of the event
 
 ### Random Projects
 
+* [Issue App](https://github.com/dekaghub/issue-full-stack-app) - Full Stack Next.js issue management app - basically a ticket system
 * [Completo](https://github.com/dekaghub/completo) - React app that lets users complete fragments of random lyrics using MusixMatch API.
 * [Muse Info](https://github.com/dekaghub/muse-info) - React app built with Bootstrap and MusixMatch API that lets users search for and get information about music
 * [gif-app](https://github.com/dekaghub/gif-app) - Simple React app built using native and custom react hooks and giphy API
@@ -85,6 +92,7 @@ selenium related chrome browser + drivers.</p>
 <li style="margin-left:3em"> test </li>
 
 </details>
+
 ### Machine Learing & Statistical Analysis
 
 * [Pet Classifier](https://github.com/dekaghub/Cats-and-Dogs-Classifier/blob/master/keras_catsndogs_classifier.ipynb) - TensorFlow Keras VGG16 Image Classifier that predicts Cat or Dog with 98% accuracy
