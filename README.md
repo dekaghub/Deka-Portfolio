@@ -60,16 +60,18 @@ both Google and Ulta Beauty were sponsors of the event
 
 # Personal
 
-### DevOps Projects
+### DevOps / Backend Projects
 
 * Complete CI/CD Pipeline of a full stack app with deployment in a kubernetes cluster using ArgoCD, cdk8s. [Demo Video](https://youtu.be/l58EIv-0G5Y)
 * Prometheus monitoring with Grafana of a MongoDB service
+* Testing service communication in a microservice architecture app using REST, gRPC, RabbitMQ. [Demo Video](https://youtu.be/aH3UfKTCsa0)
 
 
 ### Data Projects
 
 * [Python Notebooks Github](https://github.com/dekaghub/Data-Projects-Deka/tree/main/Python%20Notebooks)
 * [Data related projects github page](https://github.com/dekaghub/Data-Projects-Deka)
+* [Spotify Playlist Analysis](https://www.kaggle.com/code/ddefie/spotify-playlist-analysis-eda#Plotly-Visualizations) - EDA, web scraping, interactive plots
 * dbt & AWS - Loaded data into AWS and used dbt to generate models i.e. data transformations
 * Used an AWS CloudFormation yaml config file to set up Redshift instance along with other resources (EC2, S3, Lambda, etc.)
 * Uploaded datasets to S3 then loaded them to schemas created in RedShift 
@@ -99,7 +101,6 @@ selenium related chrome browser + drivers.</p>
 * [Weather Classifier](https://github.com/dekaghub/weather-classifier/blob/master/keras_mobilenet_weather_classifier.ipynb) - Keras MobileNet V1 Image classifier that classifies weather out of 4 possible classes; Cloudy, Rainy, Sunshine or Sunrise
 * R projects on Linear, Logisitic, KNN, Collaborative filtering, Clustering, Forest (Boosted) models for Credit Dataset to predict Loan Approval
 * Used librosa in python for spectral analysis and converting audio to image for ML models
-* NLP to read headlines of news outlets to determine price movement of stocks
 * Pairs trading project on R 
 
 ### Design & Motion Graphics
