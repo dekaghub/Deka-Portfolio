@@ -126,7 +126,7 @@ selenium related chrome browser + drivers.</p>
 
 ![](./images/github-logo.png) &nbsp; &nbsp; [GitHub](https://github.com/dekaghub)
 
-![](./images/youtube.png) &nbsp; &nbsp; [YouTube](https://www.youtube.com/@defie8162)
+![](./images/youtube.png) &nbsp; &nbsp; [YouTube](https://www.youtube.com/@dexdev-jl8jy)
 
 ![](./images/mail.png) &nbsp; &nbsp; [Email](mailto:deviedefie@gmail.com)
 
